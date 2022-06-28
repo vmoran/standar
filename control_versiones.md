@@ -1,3 +1,4 @@
+# Standares Control de Versiones
 Para dar seguimiento a las tareas de cada proyecto utilizaremos el modelo canvas que trae incorporado Github
 
 1) ingresa a tu cuenta de Github  y luego entra a tu proyecto creado
@@ -19,9 +20,9 @@ Las columnas que usaremos y debemos agregar serán:
 
 
 
-Github
+## Github
 
-ramas
+'''Ramas (branches)'''
 
 development (desarrollo)
 
