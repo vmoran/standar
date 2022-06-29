@@ -1,19 +1,28 @@
-Bases de datos
+#Bases de datos
 
-Prefijos y nombres de tablas o bases en minúsculas
-separar palabras con guion bajo
+1) Prefijos y nombres de tablas o bases en minúsculas
 
-nombres de tablas o solo en singular o plural, pero no combinados
+-users
+- user
+-
+2) separar palabras con guion bajo para los nombres de las tablas:
+
+paciente_historia
+user_rol
+mnt_usuario_perfil
+ctl_pais
+ctl_estado
+
+3) nombres de tablas o solo en singular o plural, pero no combinados
 
 users o user
 roles o rol
 
 
+4) prefijos de tablas
 
-ctl  catalogos
-mnt mantenimientos
-
-mnt_usuario_perfil
+ctl para tablas de catalogos  ctl_pais, ctl_departamento
+mnt para tablas de mantenimientos mtn_proveedor, mnt_usuario_perfil
 
 
 creauser -RSDP  username  (en postgres)
